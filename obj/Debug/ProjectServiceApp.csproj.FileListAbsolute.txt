@@ -1,0 +1,12 @@
+D:\Brijesh\IDP 2016\IOS\Drashti Project\ProjectServiceApp\ProjectServiceApp\bin\ProjectServiceApp.dll.config
+D:\Brijesh\IDP 2016\IOS\Drashti Project\ProjectServiceApp\ProjectServiceApp\bin\ProjectServiceApp.dll
+D:\Brijesh\IDP 2016\IOS\Drashti Project\ProjectServiceApp\ProjectServiceApp\bin\ProjectServiceApp.pdb
+D:\Brijesh\IDP 2016\IOS\Drashti Project\ProjectServiceApp\ProjectServiceApp\obj\Debug\ProjectServiceApp.csprojResolveAssemblyReference.cache
+D:\Brijesh\IDP 2016\IOS\Drashti Project\ProjectServiceApp\ProjectServiceApp\obj\Debug\ProjectServiceApp.dll
+D:\Brijesh\IDP 2016\IOS\Drashti Project\ProjectServiceApp\ProjectServiceApp\obj\Debug\ProjectServiceApp.pdb
+D:\Brijesh\IDP 2016\IOS\Drashti Project\ProjectServiceApp - Copy\ProjectServiceApp\bin\ProjectServiceApp.dll.config
+D:\Brijesh\IDP 2016\IOS\Drashti Project\ProjectServiceApp - Copy\ProjectServiceApp\bin\ProjectServiceApp.dll
+D:\Brijesh\IDP 2016\IOS\Drashti Project\ProjectServiceApp - Copy\ProjectServiceApp\bin\ProjectServiceApp.pdb
+D:\Brijesh\IDP 2016\IOS\Drashti Project\ProjectServiceApp - Copy\ProjectServiceApp\obj\Debug\ProjectServiceApp.csprojResolveAssemblyReference.cache
+D:\Brijesh\IDP 2016\IOS\Drashti Project\ProjectServiceApp - Copy\ProjectServiceApp\obj\Debug\ProjectServiceApp.dll
+D:\Brijesh\IDP 2016\IOS\Drashti Project\ProjectServiceApp - Copy\ProjectServiceApp\obj\Debug\ProjectServiceApp.pdb
